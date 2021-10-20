@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+img {
+    max-width: 15%;
+    height: auto;
+    opacity: 20%;
+}
+body {
+background-color: black;
+}
+img:hover {
+    opacity: 100%;
+}
